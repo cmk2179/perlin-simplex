@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "description": "Simplex Perlin noise",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "node test/index.js",
     "example": "node example/index.js"
